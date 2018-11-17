@@ -33,7 +33,14 @@ Additional optional outputs will be
 * Home team score
 * Away team score
 
+The program will use tensor flow for the nueral network.
+
 ## Classes of the program ##
+
+* Fixture
+* League table
+* Form - contains the teams last three games
+- Result - contains th
 
 ## Potential future enhancements ##
 
